@@ -25,7 +25,6 @@ import {
   LayoutDashboard,
   Menu,
   MessageSquareText,
-  PhoneCall,
   Search,
   ShieldCheck,
   Sparkles,
